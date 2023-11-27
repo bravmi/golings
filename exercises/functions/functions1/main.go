@@ -1,8 +1,11 @@
 // functions1
 // Make me compile!
 
-// I AM NOT DONE
 package main
+
+func call_me() {
+	println("Functions are awesome!")
+}
 
 func main() {
 	call_me()
